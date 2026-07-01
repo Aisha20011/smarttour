@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "942735372850",
+    "project_id": "smarttour-e5ef8",
+    "storage_bucket": "smarttour-e5ef8.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:942735372850:android:4665f259c512b0a357422b",
+        "android_client_info": {
+          "package_name": "com.example.smarttour"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "942735372850-7hsthda1pq3vkc9f6jps4c413uhoi8n2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUaGnT-P7HEtd15Et8ss-UJp1r44dvhTk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "942735372850-7hsthda1pq3vkc9f6jps4c413uhoi8n2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
